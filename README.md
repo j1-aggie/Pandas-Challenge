@@ -66,7 +66,6 @@ Math Scores by Grade**
 
 A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
-
 Reading Scores by Grade
 
 A table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.

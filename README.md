@@ -1,7 +1,8 @@
 # Pandas-Challenge
 
 
-![Capture](https://user-images.githubusercontent.com/66078772/91492164-ca8b4380-e87a-11ea-9b2e-af5f4300e165.
+![Capture](https://user-images.githubusercontent.com/66078772/91493170-84cf7a80-e87c-11ea-950e-9c2d04085091.PNG)
+
 
 I was asked to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility was to aggregate the data to and showcase obvious trends in school performance.
 

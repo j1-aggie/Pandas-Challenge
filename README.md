@@ -5,7 +5,7 @@
 
 I was asked to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility was to aggregate the data to and showcase obvious trends in school performance.
 
-Your final report should After gather all the data for the project the data was then analyzed to include each of the following:
+After gathering all the data for the project the data was then analyzed to include each of the following:
 
 District Summary
 
@@ -94,9 +94,9 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 
 As final considerations:
 
-Use the pandas library and Jupyter Notebook.
-You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-You must include a written description of at least two observable trends based on the data.
+Used the pandas library and Jupyter Notebook.
+Submitted a link to my Jupyter Notebook with the viewable Data Frames.
+I also included a written description of at least two observable trends based on the data.
 
 
 

@@ -96,7 +96,12 @@ As final considerations:
 
 Used the pandas library and Jupyter Notebook.
 Submitted a link to my Jupyter Notebook with the viewable Data Frames.
-I also included a written description of at least two observable trends based on the data.
+I also included a written description of at least two observable trends based on the data.  The observations that are included in my attachments are below. 
+
+#Observations after analysis
+#Observation 1:  It appears that the Charter schools outperformed the District schools in all scoring aspects.
+
+#Observation 2:  There also appears to be a direct correlation to the high passing rate and school sizes.  The smaller the school size, the higher the passing rate.  This may be attributed to the fact that with smaller schools you have a lower student teacher to teacher ratio. 
 
 
 

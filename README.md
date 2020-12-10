@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Py City Schools Pandas-Challenge
 
 ![Capture](https://user-images.githubusercontent.com/66078772/91493170-84cf7a80-e87c-11ea-950e-9c2d04085091.PNG)
 
